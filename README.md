@@ -7,4 +7,4 @@ Some recent projects:
 - [Fullstack projects](https://github.com/dudzpedra/fullstackopen)
   - Backend: Node, Express and MongoDB
   - Frontend: React with Validation and ESlint
-- [Typescript and Context API])https://github.com/dudzpedra/react-typescript-context)
+- [Typescript and Context API](https://github.com/dudzpedra/react-typescript-context)
