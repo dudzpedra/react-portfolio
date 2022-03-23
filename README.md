@@ -9,3 +9,4 @@ Some recent projects:
   - Frontend: React with Validation and ESlint
 - [Typescript and Context API](https://github.com/dudzpedra/react-typescript-context)
 - [Typescript, Redux, React Router and AWS Amplify](https://github.com/dudzpedra/drinks-rating-app)
+- [React Native, Styled Components, Axios, Context API and Authentication](https://github.com/dudzpedra/react-native-car-app)
