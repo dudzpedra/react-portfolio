@@ -8,3 +8,4 @@ Some recent projects:
   - Backend: Node, Express and MongoDB
   - Frontend: React with Validation and ESlint
 - [Typescript and Context API](https://github.com/dudzpedra/react-typescript-context)
+- [Typescript, Redux, React Router and AWS Amplify](https://github.com/dudzpedra/drinks-rating-app)
