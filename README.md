@@ -2,7 +2,7 @@
 
 Some recent projects:
 
-- [Copa Games: React app with Redux Toolkit, React Router, Axios, Material UI and AWS Amplify](https://github.com/dudzpedra/copa-games/react)
+- [Copa Games: React app with Redux Toolkit, React Router, Axios, Material UI and AWS Amplify](https://github.com/dudzpedra/copa-games-react)
 - [Typescript and Context API](https://github.com/dudzpedra/react-typescript-context)
 - [Typescript, Redux, React Router and AWS Amplify](https://github.com/dudzpedra/drinks-rating-app)
 - [React Native, Styled Components, Axios, Context API and Authentication](https://github.com/dudzpedra/react-native-car-app)
