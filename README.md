@@ -2,6 +2,7 @@
 
 Some recent projects:
 
+- [React and GraphQL Minimalistic E-commerce](https://github.com/dudzpedra/Eduardo-Pedra-Frontend-Test)
 - [Copa Games: React app with Redux Toolkit, React Router, Axios, Material UI and AWS Amplify](https://github.com/dudzpedra/copa-games-react)
 - [Typescript and Context API](https://github.com/dudzpedra/react-typescript-context)
 - [Typescript, Redux, React Router and AWS Amplify](https://github.com/dudzpedra/drinks-rating-app)
