@@ -13,3 +13,4 @@ Some recent projects:
 - [Fullstack projects](https://github.com/dudzpedra/fullstackopen)
   - Backend: Node, Express and MongoDB
   - Frontend: React with Validation and ESlint
+- [Next.js Web App with Terraform integration](https://github.com/dudzpedra/nextjs-terraform-demo)
