@@ -14,3 +14,4 @@ Some recent projects:
   - Backend: Node, Express and MongoDB
   - Frontend: React with Validation and ESlint
 - [Next.js Web App with Terraform integration](https://github.com/dudzpedra/nextjs-terraform-demo)
+- [React Web App to find musics with ChatGPT/OpenAI API](https://github.com/dudzpedra/chatgpt-api-music-finder)
